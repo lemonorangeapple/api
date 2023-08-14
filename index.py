@@ -1,4 +1,3 @@
-import requests
 from flask import *
 from gevent import monkey
 monkey.patch_all()
